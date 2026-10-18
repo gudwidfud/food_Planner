@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\317960ed54b27f6f66cbdd349a5b0919\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\7eb6cf0720b1716743e800566a6283d9\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\e2a1db6b09141e2eff342405c7b4a795\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\6f8523a0dbf08d767324bb3395fe9abb\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b363bef69af39007dce199cd13ed3b07\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\94429fbeb30860c8b18d43124cc1f159\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b5019bc330d31104abd9eb75a5be1c72\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\1730fb7c6cf1f8c3096a3d330466529f\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\ff059c9bb5de02648357cf8df131e32a\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\216289dcd7d510a47bdbc4899b4770d4\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\a21cc9df97e66e39ce75ea3f0877473f\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\35f72cc74c5c31de55e7685fc640b535\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\d47c48bdd1fc43cffe04706274bb8236\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\f541d8d6b3ec88def6ff1bea59cb8377\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\0e0555714c51ec58c4f4d2fb2382344a\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\cf792f26fa5eede8594f28e30204c051\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\38af15a603f693b39d38c8a7f53f0f1b\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\8e1d15f45f840f46680a750a18c45517\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\da9c5b997e327c5084b67297ed5fa560\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\96fdafd8719d10ccc8075403870b5a7a\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\a366bf3ce626579b1a75a292bdc3125a\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\857276c5928b2d7bb2bda5fb2c2a996d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\60881429707ae3bf00006da7bccbb079\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\84a5720ddbc9633cf869dfd518143915\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\862886470825b9d33864a2d8759eb8c9\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\81f19faa96d60c8a6154eb3fcded61c3\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\9ee50bca77f141c03637137e9f0b27a6\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed39100a094cef0442f0ae1f6f311076\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\e7bddfb57b9867b96f99f7012817166b\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\e4050dd007ed5c59ddbbbed89c293926\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\28a06b34a0f7c6fd14f929901dc0558a\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\44c4a0cd3901ccad2fa6d9f503e117fd\transformed\activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\f798f3f415de546f85ad5f251a7777ee\transformed\activity-compose-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\90eb4e00d4266eed637553c5fa6ce648\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\a3cf4966f8a929e4f262c0655b07c47c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\371c1445391244ea3ed957408f570d65\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\853285d8ef4c06ddd193add2f8f578f6\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b6c7c5d93203783383fbc6e7a7518bd9\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\cc64f257a90e1a156433e1e407467e34\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\4719e27b3f4f6a359d2ffc24e64c0714\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\3fb25262f343474072b221af1bf262e6\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\ac4c1113ca87af8bb82782aca61b5d09\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\784cd409d6990f724fedef0b263239ce\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\94db79e0c3e94de4ac73a038c041eb81\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:6:5-21:19
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\ac4c1113ca87af8bb82782aca61b5d09\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\ac4c1113ca87af8bb82782aca61b5d09\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:12:9-49
+activity#com.example.foodplanner.MainActivity
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:exported
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\317960ed54b27f6f66cbdd349a5b0919\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\317960ed54b27f6f66cbdd349a5b0919\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\7eb6cf0720b1716743e800566a6283d9\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\7eb6cf0720b1716743e800566a6283d9\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\e2a1db6b09141e2eff342405c7b4a795\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\e2a1db6b09141e2eff342405c7b4a795\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\6f8523a0dbf08d767324bb3395fe9abb\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\6f8523a0dbf08d767324bb3395fe9abb\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b363bef69af39007dce199cd13ed3b07\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b363bef69af39007dce199cd13ed3b07\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\94429fbeb30860c8b18d43124cc1f159\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\94429fbeb30860c8b18d43124cc1f159\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b5019bc330d31104abd9eb75a5be1c72\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b5019bc330d31104abd9eb75a5be1c72\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\1730fb7c6cf1f8c3096a3d330466529f\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\1730fb7c6cf1f8c3096a3d330466529f\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\ff059c9bb5de02648357cf8df131e32a\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\ff059c9bb5de02648357cf8df131e32a\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\216289dcd7d510a47bdbc4899b4770d4\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\216289dcd7d510a47bdbc4899b4770d4\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\a21cc9df97e66e39ce75ea3f0877473f\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\a21cc9df97e66e39ce75ea3f0877473f\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\35f72cc74c5c31de55e7685fc640b535\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\35f72cc74c5c31de55e7685fc640b535\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\d47c48bdd1fc43cffe04706274bb8236\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\d47c48bdd1fc43cffe04706274bb8236\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\f541d8d6b3ec88def6ff1bea59cb8377\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\f541d8d6b3ec88def6ff1bea59cb8377\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\0e0555714c51ec58c4f4d2fb2382344a\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\0e0555714c51ec58c4f4d2fb2382344a\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\cf792f26fa5eede8594f28e30204c051\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\cf792f26fa5eede8594f28e30204c051\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\38af15a603f693b39d38c8a7f53f0f1b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\38af15a603f693b39d38c8a7f53f0f1b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\8e1d15f45f840f46680a750a18c45517\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\8e1d15f45f840f46680a750a18c45517\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\da9c5b997e327c5084b67297ed5fa560\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\da9c5b997e327c5084b67297ed5fa560\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\96fdafd8719d10ccc8075403870b5a7a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\96fdafd8719d10ccc8075403870b5a7a\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\a366bf3ce626579b1a75a292bdc3125a\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\a366bf3ce626579b1a75a292bdc3125a\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\857276c5928b2d7bb2bda5fb2c2a996d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\857276c5928b2d7bb2bda5fb2c2a996d\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\60881429707ae3bf00006da7bccbb079\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\60881429707ae3bf00006da7bccbb079\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\84a5720ddbc9633cf869dfd518143915\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\84a5720ddbc9633cf869dfd518143915\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\862886470825b9d33864a2d8759eb8c9\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\862886470825b9d33864a2d8759eb8c9\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\81f19faa96d60c8a6154eb3fcded61c3\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\81f19faa96d60c8a6154eb3fcded61c3\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\9ee50bca77f141c03637137e9f0b27a6\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\9ee50bca77f141c03637137e9f0b27a6\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed39100a094cef0442f0ae1f6f311076\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed39100a094cef0442f0ae1f6f311076\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\e7bddfb57b9867b96f99f7012817166b\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\e7bddfb57b9867b96f99f7012817166b\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\e4050dd007ed5c59ddbbbed89c293926\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\e4050dd007ed5c59ddbbbed89c293926\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\28a06b34a0f7c6fd14f929901dc0558a\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\28a06b34a0f7c6fd14f929901dc0558a\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\44c4a0cd3901ccad2fa6d9f503e117fd\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\44c4a0cd3901ccad2fa6d9f503e117fd\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\f798f3f415de546f85ad5f251a7777ee\transformed\activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\f798f3f415de546f85ad5f251a7777ee\transformed\activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\90eb4e00d4266eed637553c5fa6ce648\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\90eb4e00d4266eed637553c5fa6ce648\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\a3cf4966f8a929e4f262c0655b07c47c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\a3cf4966f8a929e4f262c0655b07c47c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\371c1445391244ea3ed957408f570d65\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\371c1445391244ea3ed957408f570d65\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\853285d8ef4c06ddd193add2f8f578f6\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\853285d8ef4c06ddd193add2f8f578f6\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b6c7c5d93203783383fbc6e7a7518bd9\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\b6c7c5d93203783383fbc6e7a7518bd9\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\cc64f257a90e1a156433e1e407467e34\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\cc64f257a90e1a156433e1e407467e34\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\4719e27b3f4f6a359d2ffc24e64c0714\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\4719e27b3f4f6a359d2ffc24e64c0714\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\3fb25262f343474072b221af1bf262e6\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\3fb25262f343474072b221af1bf262e6\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\ac4c1113ca87af8bb82782aca61b5d09\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\ac4c1113ca87af8bb82782aca61b5d09\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\784cd409d6990f724fedef0b263239ce\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\784cd409d6990f724fedef0b263239ce\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\94db79e0c3e94de4ac73a038c041eb81\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\94db79e0c3e94de4ac73a038c041eb81\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Projects\food_Planner\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.example.foodplanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.foodplanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

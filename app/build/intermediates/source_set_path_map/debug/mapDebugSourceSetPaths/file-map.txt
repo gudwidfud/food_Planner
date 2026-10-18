@@ -1,0 +1,55 @@
+com.example.foodplanner.app-ui-tooling-preview-release-0 C:\Users\timro\.gradle\caches\9.6.0\transforms\0e0555714c51ec58c4f4d2fb2382344a\transformed\ui-tooling-preview-release\res
+com.example.foodplanner.app-foundation-release-1 C:\Users\timro\.gradle\caches\9.6.0\transforms\1730fb7c6cf1f8c3096a3d330466529f\transformed\foundation-release\res
+com.example.foodplanner.app-ui-unit-release-2 C:\Users\timro\.gradle\caches\9.6.0\transforms\216289dcd7d510a47bdbc4899b4770d4\transformed\ui-unit-release\res
+com.example.foodplanner.app-ui-release-3 C:\Users\timro\.gradle\caches\9.6.0\transforms\28a06b34a0f7c6fd14f929901dc0558a\transformed\ui-release\res
+com.example.foodplanner.app-activity-1.10.1-4 C:\Users\timro\.gradle\caches\9.6.0\transforms\317960ed54b27f6f66cbdd349a5b0919\transformed\activity-1.10.1\res
+com.example.foodplanner.app-ui-geometry-release-5 C:\Users\timro\.gradle\caches\9.6.0\transforms\35f72cc74c5c31de55e7685fc640b535\transformed\ui-geometry-release\res
+com.example.foodplanner.app-sqlite-2.4.0-6 C:\Users\timro\.gradle\caches\9.6.0\transforms\371c1445391244ea3ed957408f570d65\transformed\sqlite-2.4.0\res
+com.example.foodplanner.app-savedstate-1.2.1-7 C:\Users\timro\.gradle\caches\9.6.0\transforms\38af15a603f693b39d38c8a7f53f0f1b\transformed\savedstate-1.2.1\res
+com.example.foodplanner.app-tracing-1.2.0-8 C:\Users\timro\.gradle\caches\9.6.0\transforms\3fb25262f343474072b221af1bf262e6\transformed\tracing-1.2.0\res
+com.example.foodplanner.app-startup-runtime-1.1.1-9 C:\Users\timro\.gradle\caches\9.6.0\transforms\43d8adc71c454973221a4bbbf3c6b2a3\transformed\startup-runtime-1.1.1\res
+com.example.foodplanner.app-activity-ktx-1.10.1-10 C:\Users\timro\.gradle\caches\9.6.0\transforms\44c4a0cd3901ccad2fa6d9f503e117fd\transformed\activity-ktx-1.10.1\res
+com.example.foodplanner.app-lifecycle-runtime-ktx-release-11 C:\Users\timro\.gradle\caches\9.6.0\transforms\60881429707ae3bf00006da7bccbb079\transformed\lifecycle-runtime-ktx-release\res
+com.example.foodplanner.app-animation-core-release-12 C:\Users\timro\.gradle\caches\9.6.0\transforms\6f8523a0dbf08d767324bb3395fe9abb\transformed\animation-core-release\res
+com.example.foodplanner.app-annotation-experimental-1.4.1-13 C:\Users\timro\.gradle\caches\9.6.0\transforms\784cd409d6990f724fedef0b263239ce\transformed\annotation-experimental-1.4.1\res
+com.example.foodplanner.app-material3-release-14 C:\Users\timro\.gradle\caches\9.6.0\transforms\7eb6cf0720b1716743e800566a6283d9\transformed\material3-release\res
+com.example.foodplanner.app-lifecycle-viewmodel-savedstate-2.8.7-15 C:\Users\timro\.gradle\caches\9.6.0\transforms\81f19faa96d60c8a6154eb3fcded61c3\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.foodplanner.app-emoji2-1.3.0-16 C:\Users\timro\.gradle\caches\9.6.0\transforms\83f582b40ea0d9dba011024d76f6c503\transformed\emoji2-1.3.0\res
+com.example.foodplanner.app-lifecycle-runtime-release-17 C:\Users\timro\.gradle\caches\9.6.0\transforms\84a5720ddbc9633cf869dfd518143915\transformed\lifecycle-runtime-release\res
+com.example.foodplanner.app-runtime-saveable-release-18 C:\Users\timro\.gradle\caches\9.6.0\transforms\853285d8ef4c06ddd193add2f8f578f6\transformed\runtime-saveable-release\res
+com.example.foodplanner.app-lifecycle-livedata-core-2.8.7-19 C:\Users\timro\.gradle\caches\9.6.0\transforms\857276c5928b2d7bb2bda5fb2c2a996d\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.foodplanner.app-lifecycle-viewmodel-release-20 C:\Users\timro\.gradle\caches\9.6.0\transforms\862886470825b9d33864a2d8759eb8c9\transformed\lifecycle-viewmodel-release\res
+com.example.foodplanner.app-customview-poolingcontainer-1.0.0-21 C:\Users\timro\.gradle\caches\9.6.0\transforms\8e1d15f45f840f46680a750a18c45517\transformed\customview-poolingcontainer-1.0.0\res
+com.example.foodplanner.app-room-ktx-2.6.1-22 C:\Users\timro\.gradle\caches\9.6.0\transforms\90eb4e00d4266eed637553c5fa6ce648\transformed\room-ktx-2.6.1\res
+com.example.foodplanner.app-room-runtime-2.6.1-23 C:\Users\timro\.gradle\caches\9.6.0\transforms\925ccfe4ad62ee0c9b0fdbea1876c4e2\transformed\room-runtime-2.6.1\res
+com.example.foodplanner.app-animation-release-24 C:\Users\timro\.gradle\caches\9.6.0\transforms\94429fbeb30860c8b18d43124cc1f159\transformed\animation-release\res
+com.example.foodplanner.app-core-viewtree-1.0.0-25 C:\Users\timro\.gradle\caches\9.6.0\transforms\94db79e0c3e94de4ac73a038c041eb81\transformed\core-viewtree-1.0.0\res
+com.example.foodplanner.app-lifecycle-viewmodel-ktx-2.8.7-26 C:\Users\timro\.gradle\caches\9.6.0\transforms\9ee50bca77f141c03637137e9f0b27a6\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.foodplanner.app-ui-graphics-release-27 C:\Users\timro\.gradle\caches\9.6.0\transforms\a21cc9df97e66e39ce75ea3f0877473f\transformed\ui-graphics-release\res
+com.example.foodplanner.app-graphics-path-1.0.1-28 C:\Users\timro\.gradle\caches\9.6.0\transforms\a366bf3ce626579b1a75a292bdc3125a\transformed\graphics-path-1.0.1\res
+com.example.foodplanner.app-sqlite-framework-2.4.0-29 C:\Users\timro\.gradle\caches\9.6.0\transforms\a3cf4966f8a929e4f262c0655b07c47c\transformed\sqlite-framework-2.4.0\res
+com.example.foodplanner.app-material-ripple-release-30 C:\Users\timro\.gradle\caches\9.6.0\transforms\b363bef69af39007dce199cd13ed3b07\transformed\material-ripple-release\res
+com.example.foodplanner.app-profileinstaller-1.4.0-31 C:\Users\timro\.gradle\caches\9.6.0\transforms\b3993e5aa4ef40c216bf3853399b8887\transformed\profileinstaller-1.4.0\res
+com.example.foodplanner.app-foundation-layout-release-32 C:\Users\timro\.gradle\caches\9.6.0\transforms\b5019bc330d31104abd9eb75a5be1c72\transformed\foundation-layout-release\res
+com.example.foodplanner.app-runtime-release-33 C:\Users\timro\.gradle\caches\9.6.0\transforms\b6c7c5d93203783383fbc6e7a7518bd9\transformed\runtime-release\res
+com.example.foodplanner.app-core-runtime-2.2.0-34 C:\Users\timro\.gradle\caches\9.6.0\transforms\cc64f257a90e1a156433e1e407467e34\transformed\core-runtime-2.2.0\res
+com.example.foodplanner.app-savedstate-ktx-1.2.1-35 C:\Users\timro\.gradle\caches\9.6.0\transforms\cf792f26fa5eede8594f28e30204c051\transformed\savedstate-ktx-1.2.1\res
+com.example.foodplanner.app-ui-util-release-36 C:\Users\timro\.gradle\caches\9.6.0\transforms\d47c48bdd1fc43cffe04706274bb8236\transformed\ui-util-release\res
+com.example.foodplanner.app-ui-tooling-release-37 C:\Users\timro\.gradle\caches\9.6.0\transforms\da338e0e2a1b3292afe899eedca34b7c\transformed\ui-tooling-release\res
+com.example.foodplanner.app-core-ktx-1.15.0-38 C:\Users\timro\.gradle\caches\9.6.0\transforms\da9c5b997e327c5084b67297ed5fa560\transformed\core-ktx-1.15.0\res
+com.example.foodplanner.app-material-release-39 C:\Users\timro\.gradle\caches\9.6.0\transforms\e2a1db6b09141e2eff342405c7b4a795\transformed\material-release\res
+com.example.foodplanner.app-material-icons-core-release-40 C:\Users\timro\.gradle\caches\9.6.0\transforms\e4050dd007ed5c59ddbbbed89c293926\transformed\material-icons-core-release\res
+com.example.foodplanner.app-lifecycle-viewmodel-compose-release-41 C:\Users\timro\.gradle\caches\9.6.0\transforms\e7bddfb57b9867b96f99f7012817166b\transformed\lifecycle-viewmodel-compose-release\res
+com.example.foodplanner.app-lifecycle-runtime-compose-release-42 C:\Users\timro\.gradle\caches\9.6.0\transforms\ed39100a094cef0442f0ae1f6f311076\transformed\lifecycle-runtime-compose-release\res
+com.example.foodplanner.app-lifecycle-process-2.8.7-43 C:\Users\timro\.gradle\caches\9.6.0\transforms\ed85145d6e96109a1099ba7aab986d6d\transformed\lifecycle-process-2.8.7\res
+com.example.foodplanner.app-ui-text-release-44 C:\Users\timro\.gradle\caches\9.6.0\transforms\f541d8d6b3ec88def6ff1bea59cb8377\transformed\ui-text-release\res
+com.example.foodplanner.app-activity-compose-1.10.1-45 C:\Users\timro\.gradle\caches\9.6.0\transforms\f798f3f415de546f85ad5f251a7777ee\transformed\activity-compose-1.10.1\res
+com.example.foodplanner.app-ui-tooling-data-release-46 C:\Users\timro\.gradle\caches\9.6.0\transforms\ff059c9bb5de02648357cf8df131e32a\transformed\ui-tooling-data-release\res
+com.example.foodplanner.app-core-1.15.0-47 C:\Users\timro\.gradle\caches\9.6.0\transforms\ffe9009b7637e6eef4b94f672d8773c2\transformed\core-1.15.0\res
+com.example.foodplanner.app-pngs-48 D:\Android Projects\food_Planner\app\build\generated\res\pngs\debug
+com.example.foodplanner.app-resValues-49 D:\Android Projects\food_Planner\app\build\generated\res\resValues\debug
+com.example.foodplanner.app-packageDebugResources-50 D:\Android Projects\food_Planner\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.foodplanner.app-packageDebugResources-51 D:\Android Projects\food_Planner\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.foodplanner.app-debug-52 D:\Android Projects\food_Planner\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.foodplanner.app-debug-53 D:\Android Projects\food_Planner\app\src\debug\res
+com.example.foodplanner.app-main-54 D:\Android Projects\food_Planner\app\src\main\res

@@ -1,0 +1,4 @@
+#Sun Oct 18 15:55:34 CEST 2026
+base.0=D\:\\Android Projects\\food_Planner\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

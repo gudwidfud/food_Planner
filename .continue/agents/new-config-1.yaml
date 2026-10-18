@@ -1,0 +1,11 @@
+name: Local Coding Setup
+version: 1.0.0
+schema: v1
+models:
+  - name: Qwen 2.5 Coder 14B
+    provider: ollama
+    model: qwen2.5-coder:14b
+tabAutocompleteModel:
+  name: Qwen 2.5 Coder 14B
+  provider: ollama
+  model: qwen2.5-coder:14b

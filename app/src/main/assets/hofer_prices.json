@@ -1,0 +1,287 @@
+{
+ "chicken breast": {
+  "price": 17.99,
+  "basis": "kg",
+  "n": 3
+ },
+ "chicken thigh": {
+  "price": 9.98,
+  "basis": "kg",
+  "n": 9
+ },
+ "chicken": {
+  "price": 12.98,
+  "basis": "kg",
+  "n": 6
+ },
+ "minced beef": {
+  "price": 12.49,
+  "basis": "kg",
+  "n": 6
+ },
+ "minced pork": {
+  "price": 8.99,
+  "basis": "kg",
+  "n": 10
+ },
+ "pork": {
+  "price": 8.99,
+  "basis": "kg",
+  "n": 14
+ },
+ "bacon": {
+  "price": 6.65,
+  "basis": "kg",
+  "n": 16
+ },
+ "sausage": {
+  "price": 5.63,
+  "basis": "kg",
+  "n": 90
+ },
+ "salmon": {
+  "price": 3.4,
+  "basis": "kg",
+  "n": 48
+ },
+ "tuna": {
+  "price": 8.35,
+  "basis": "kg",
+  "n": 22
+ },
+ "egg": {
+  "price": 7.45,
+  "basis": "kg",
+  "n": 13
+ },
+ "milk": {
+  "price": 7.4,
+  "basis": "kg",
+  "n": 33
+ },
+ "cream": {
+  "price": 5.58,
+  "basis": "l",
+  "n": 8
+ },
+ "yogurt": {
+  "price": 1.98,
+  "basis": "kg",
+  "n": 16
+ },
+ "butter": {
+  "price": 6.63,
+  "basis": "kg",
+  "n": 14
+ },
+ "parmesan": {
+  "price": 6.36,
+  "basis": "kg",
+  "n": 20
+ },
+ "mozzarella": {
+  "price": 4.98,
+  "basis": "kg",
+  "n": 36
+ },
+ "feta": {
+  "price": 7.96,
+  "basis": "kg",
+  "n": 20
+ },
+ "cheddar": {
+  "price": 7.97,
+  "basis": "kg",
+  "n": 55
+ },
+ "sugar": {
+  "price": 1.99,
+  "basis": "kg",
+  "n": 43
+ },
+ "honey": {
+  "price": 3.79,
+  "basis": "kg",
+  "n": 25
+ },
+ "rice": {
+  "price": 1.19,
+  "basis": "kg",
+  "n": 16
+ },
+ "spaghetti": {
+  "price": 1.38,
+  "basis": "kg",
+  "n": 44
+ },
+ "oats": {
+  "price": 2.3,
+  "basis": "kg",
+  "n": 6
+ },
+ "potato": {
+  "price": 0.9,
+  "basis": "kg",
+  "n": 37
+ },
+ "onion": {
+  "price": 1.49,
+  "basis": "kg",
+  "n": 29
+ },
+ "garlic": {
+  "price": 4.8,
+  "basis": "kg",
+  "n": 34
+ },
+ "carrot": {
+  "price": 1.44,
+  "basis": "kg",
+  "n": 16
+ },
+ "chopped tomato": {
+  "price": 1.98,
+  "basis": "kg",
+  "n": 3
+ },
+ "tomato paste": {
+  "price": 4.95,
+  "basis": "kg",
+  "n": 2
+ },
+ "tomato": {
+  "price": 8.25,
+  "basis": "kg",
+  "n": 2
+ },
+ "pepper": {
+  "price": 3.98,
+  "basis": "kg",
+  "n": 44
+ },
+ "mushroom": {
+  "price": 3.98,
+  "basis": "kg",
+  "n": 27
+ },
+ "courgette": {
+  "price": 1.99,
+  "basis": "kg",
+  "n": 3
+ },
+ "broccoli": {
+  "price": 3.58,
+  "basis": "kg",
+  "n": 8
+ },
+ "cabbage": {
+  "price": 2.3,
+  "basis": "kg",
+  "n": 8
+ },
+ "lettuce": {
+  "price": 2.83,
+  "basis": "kg",
+  "n": 39
+ },
+ "cucumber": {
+  "price": 1.93,
+  "basis": "kg",
+  "n": 22
+ },
+ "pea": {
+  "price": 2.94,
+  "basis": "kg",
+  "n": 12
+ },
+ "corn": {
+  "price": 3.06,
+  "basis": "kg",
+  "n": 18
+ },
+ "chickpea": {
+  "price": 1.73,
+  "basis": "kg",
+  "n": 40
+ },
+ "coconut milk": {
+  "price": 2.97,
+  "basis": "l",
+  "n": 4
+ },
+ "olive oil": {
+  "price": 7.45,
+  "basis": "kg",
+  "n": 13
+ },
+ "oil": {
+  "price": 8.59,
+  "basis": "kg",
+  "n": 12
+ },
+ "vinegar": {
+  "price": 1.19,
+  "basis": "l",
+  "n": 15
+ },
+ "ketchup": {
+  "price": 1.56,
+  "basis": "kg",
+  "n": 13
+ },
+ "mayonnaise": {
+  "price": 6.47,
+  "basis": "kg",
+  "n": 3
+ },
+ "mustard": {
+  "price": 1.42,
+  "basis": "kg",
+  "n": 33
+ },
+ "salt": {
+  "price": 6.36,
+  "basis": "kg",
+  "n": 16
+ },
+ "lemon": {
+  "price": 1.1,
+  "basis": "l",
+  "n": 17
+ },
+ "orange": {
+  "price": 3.79,
+  "basis": "kg",
+  "n": 4
+ },
+ "apple": {
+  "price": 3.45,
+  "basis": "kg",
+  "n": 55
+ },
+ "avocado": {
+  "price": 5.98,
+  "basis": "kg",
+  "n": 3
+ },
+ "berry": {
+  "price": 3.99,
+  "basis": "kg",
+  "n": 50
+ },
+ "almond": {
+  "price": 4.89,
+  "basis": "kg",
+  "n": 57
+ },
+ "chocolate": {
+  "price": 3.98,
+  "basis": "kg",
+  "n": 135
+ },
+ "baking powder": {
+  "price": 4.52,
+  "basis": "kg",
+  "n": 9
+ }
+}

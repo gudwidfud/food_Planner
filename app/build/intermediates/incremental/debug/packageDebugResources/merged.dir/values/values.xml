@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#9AB298</color>
+    <color name="splash_bg">#F4F7F2</color>
+    <string name="app_name">Food Planner</string>
+    <style name="Theme.FoodPlanner" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

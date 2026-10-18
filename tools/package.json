@@ -1,0 +1,5 @@
+{
+  "name": "food-planner-tools",
+  "private": true,
+  "dependencies": { "yaml": "^2.5.0" }
+}
